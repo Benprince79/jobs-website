@@ -1,0 +1,396 @@
+Uri: https://demo.themeregion.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://demo.themeregion.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://demo.themeregion.com/jobs/applied-job.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\applied-job.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/bookmark.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\bookmark.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/css/bootstrap.min.css
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://demo.themeregion.com/jobs/css/font-awesome.min.css
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://demo.themeregion.com/jobs/css/icofont.css
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\css\icofont.css
+Content Type: text/css
+
+Uri: https://demo.themeregion.com/jobs/css/main.css
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\css\main.css
+Content Type: text/css
+
+Uri: https://demo.themeregion.com/jobs/css/presets/preset1.css
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\css\presets\preset1.css
+Content Type: text/css
+
+Uri: https://demo.themeregion.com/jobs/css/responsive.css
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\css\responsive.css
+Content Type: text/css
+
+Uri: https://demo.themeregion.com/jobs/css/slidr.css
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\css\slidr.css
+Content Type: text/css
+
+Uri: https://demo.themeregion.com/jobs/delete-account.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\delete-account.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/details.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\details.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/edit-resume.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\edit-resume.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/fonts/fontawesome-webfont.eot?
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo.themeregion.com/jobs/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo.themeregion.com/jobs/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeregion.com/jobs/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://demo.themeregion.com/jobs/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://demo.themeregion.com/jobs/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://demo.themeregion.com/jobs/fonts/icofont.eot?v=1.0.0-alpha
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\fonts\icofont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://demo.themeregion.com/jobs/fonts/icofont.svg?v=1.0.0-alpha
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\fonts\icofont.svg
+Content Type: image/svg+xml
+
+Uri: https://demo.themeregion.com/jobs/fonts/icofont.ttf?v=1.0.0-alpha
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\fonts\icofont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://demo.themeregion.com/jobs/fonts/icofont.woff?v=1.0.0-alpha
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\fonts\icofont.woff
+Content Type: application/font-woff
+
+Uri: https://demo.themeregion.com/jobs/images/1.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\1.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/ads/1.jpg
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\ads\1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeregion.com/jobs/images/ads/3.jpg
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\ads\3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeregion.com/jobs/images/bg/1.jpg
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\bg\1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeregion.com/jobs/images/bg/job-bg.jpg
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\bg\job-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeregion.com/jobs/images/bg/job-list-bg.jpg
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\bg\job-list-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeregion.com/jobs/images/ico/apple-touch-icon-114-precomposed.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\ico\apple-touch-icon-114-precomposed.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/ico/apple-touch-icon-144-precomposed.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\ico\apple-touch-icon-144-precomposed.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/ico/apple-touch-icon-57-precomposed.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\ico\apple-touch-icon-57-precomposed.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/ico/favicon.ico
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\ico\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://demo.themeregion.com/jobs/images/icon/1.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\1.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/10.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\10.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/11.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\11.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/12.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\12.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/16.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\16.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/17.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\17.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/18.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\18.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/2.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\2.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/3.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\3.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/31.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\31.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/32.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\32.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/33.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\33.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/4.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\4.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/5.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\5.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/6.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\6.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/7.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\7.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/8.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\8.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/icon/9.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\icon\9.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/1.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\1.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/10.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\10.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/11.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\11.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/12.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\12.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/13.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\13.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/14.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\14.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/15.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\15.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/16.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\16.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/17.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\17.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/18.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\18.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/2.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\2.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/3.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\3.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/4.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\4.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/5.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\5.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/6.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\6.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/7.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\7.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/8.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\8.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/9.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\9.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/job/resume.jpg
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\job\resume.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeregion.com/jobs/images/logo.png
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\logo.png
+Content Type: image/png
+
+Uri: https://demo.themeregion.com/jobs/images/user.jpg
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\images\user.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.themeregion.com/jobs/index.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\index.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/job-details.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\job-details.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/job-list.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\job-list.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/js/bootstrap.min.js
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://demo.themeregion.com/jobs/js/jquery.min.js
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://demo.themeregion.com/jobs/js/main.js
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://demo.themeregion.com/jobs/js/popper.min.js
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\js\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://demo.themeregion.com/jobs/js/price-range.js
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\js\price-range.js
+Content Type: application/x-javascript
+
+Uri: https://demo.themeregion.com/jobs/js/switcher.js
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\js\switcher.js
+Content Type: application/x-javascript
+
+Uri: https://demo.themeregion.com/jobs/post-resume.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\post-resume.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/post.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\post.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/profile-details.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\profile-details.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/profile.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\profile.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/resume.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\resume.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/signin.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\signin.html
+Content Type: text/html
+
+Uri: https://demo.themeregion.com/jobs/signup.html
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\jobs\signup.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Signika+Negative:400,300,600,700
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Ubuntu:400,500,700,300
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/signikanegative/v21/E21x_cfngu7HiRpPX3ZpNE4kY5zKSPmJXkF0VDD2RAp5TI3rvdw.ttf
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\s\signikanegative\v21\E21x_cfngu7HiRpPX3ZpNE4kY5zKSPmJXkF0VDD2RAp5TI3rvdw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/signikanegative/v21/E21x_cfngu7HiRpPX3ZpNE4kY5zKSPmJXkF0VDD2RApATI3rvdw.ttf
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\s\signikanegative\v21\E21x_cfngu7HiRpPX3ZpNE4kY5zKSPmJXkF0VDD2RApATI3rvdw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/signikanegative/v21/E21x_cfngu7HiRpPX3ZpNE4kY5zKSPmJXkF0VDD2RAqnS43rvdw.ttf
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\s\signikanegative\v21\E21x_cfngu7HiRpPX3ZpNE4kY5zKSPmJXkF0VDD2RAqnS43rvdw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/signikanegative/v21/E21x_cfngu7HiRpPX3ZpNE4kY5zKSPmJXkF0VDD2RAr5S43rvdw.ttf
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\s\signikanegative\v21\E21x_cfngu7HiRpPX3ZpNE4kY5zKSPmJXkF0VDD2RAr5S43rvdw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw7z.ttf
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\s\ubuntu\v20\4iCs6KVjbNBYlgoKfw7z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzjsGyI.ttf
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\s\ubuntu\v20\4iCv6KVjbNBYlgoC1CzjsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3jsGyI.ttf
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\s\ubuntu\v20\4iCv6KVjbNBYlgoCjC3jsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvjsGyI.ttf
+File Name: \\CHISOM\Users\Chisom Benjamin\Desktop\web\demo.themeregion.com\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvjsGyI.ttf
+Content Type: font/ttf
+
